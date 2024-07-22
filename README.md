@@ -1,3 +1,10 @@
+# demo
+https://hotelops-hub.vercel.app/dashboard
+# performance
+https://pagespeed.web.dev/analysis/https-hotelops-hub-vercel-app-dashboard/m2qeqjeyz1?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en&utm_source=lh-chrome-ext
+![image](https://github.com/user-attachments/assets/47336ee7-2909-4c61-86f7-e5b9e549d4b1)
+![image](https://github.com/user-attachments/assets/ba95b20c-52d0-46ca-9018-600c36496279)
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
