@@ -1,5 +1,5 @@
 # demo
-https://hotelops-hub.vercel.app/dashboard
+https://hotelops-hub.vercel.app
 # performance
 https://pagespeed.web.dev/analysis/https-hotelops-hub-vercel-app-dashboard/m2qeqjeyz1?form_factor=desktop&category=performance&category=accessibility&category=best-practices&category=seo&hl=en&utm_source=lh-chrome-ext
 ![image](https://github.com/user-attachments/assets/47336ee7-2909-4c61-86f7-e5b9e549d4b1)
